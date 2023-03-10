@@ -1,0 +1,29 @@
+body
+{
+background-color: beige;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+img:hover
+{
+    border-radius: 140;
+}
+h1
+{
+    font-family: sans-serif;
+}
+
+#footer
+{
+    margin-top: 50;
+background-color: gainsboro;
+text-align: center;
+height: 5%;
+}
